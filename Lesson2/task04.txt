@@ -1,0 +1,6 @@
+окт. 19, 2022 9:52:50 PM task04 main
+INFO: x * y = 70
+окт. 19, 2022 9:53:04 PM task04 main
+INFO: x / y = 42
+окт. 19, 2022 9:53:16 PM task04 main
+INFO: x + y = 12
